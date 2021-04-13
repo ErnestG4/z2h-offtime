@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Cucumber",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": "halfling"
+  },
+  {
+    "name": "Gorden",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": "halfling"
+  },
+  {
+    "name": "Kinner",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": ""
+  },
+  {
+    "name": "Lampy",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": ""
+  },
+  {
+    "name": "Scooter",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": ""
+  },
+  {
+    "name": "Sooty",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": "human"
+  },
+  {
+    "name": "Tea",
+    "hp": 20,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": "halfling"
+  },
+  {
+    "name": "Tug",
+    "hp": 41,
+    "ac": 15,
+    "attack_mod": 3,
+    "dmg_die": 8,
+    "dmg_mod": 2,
+    "race": "halfling"
+  }
+
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "black bear",
+    "hp": 19,
+    "ac": 11,
+    "CR": 0.5,
+    "attack_mod": 3,
+    "dmg_die": 6,
+    "dmg_mod": 2
+  },
+  {
+    "name": "giant wasp",
+    "hp": 13,
+    "ac": 12,
+    "CR": 0.5,
+    "attack_mod": 4,
+    "dmg_die": 6,
+    "dmg_mod": 2
+  },
+  {
+    "name": "giant rat",
+    "hp": 1,
+    "ac": 10,
+    "CR": 0.13,
+    "attack_mod": 4,
+    "dmg_die": 4,
+    "dmg_mod": 2
+  },
+  {
+    "name": "boar",
+    "hp": 11,
+    "ac": 11,
+    "CR": 0.25,
+    "attack_mod": 3,
+    "dmg_die": 6,
+    "dmg_mod": 1
+  },
+  {
+    "name": "giant wolf spider",
+    "hp": 11,
+    "ac": 13,
+    "CR": 0.25,
+    "attack_mod": 3,
+    "dmg_die": 6,
+    "dmg_mod": 1
+  }
+]
